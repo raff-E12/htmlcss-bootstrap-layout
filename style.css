@@ -44,7 +44,7 @@ body{
 
 .box-2{
     background-color: var(--color-9);
-    color: var(--color-15);
+    color: var(--color-8);
     padding: 50px;
 }
 
@@ -66,4 +66,29 @@ body{
     background-color: var(--color-12);
     color: var(--color-8);
     padding: 30px;
+}
+
+.box-6{
+    background-color: var(--color-13);
+    color: var(--color-8);
+    padding: 40px;
+}
+
+.box-7{
+    background-color: var(--color-14);
+    color: var(--color-8);
+    padding: 40px;
+}
+
+.box-8{
+    background-color: var(--color-15);
+    color: var(--color-8);
+    padding: 40px;
+}
+
+
+.box-9{
+    background-color: var(--color-8);
+    color: var(--color-15);
+    padding: 40px;
 }
