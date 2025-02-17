@@ -5,11 +5,25 @@
     --color-2: #792525;
     --color-3: #002E37;
     --color-4: #FDFCEC;
+    --color-5: #F28907;
+    --color-6: #0F2859;
+    --color-7: #0597F2;
+    /* Color Palet For Project */
+    --color-8: #F8F9FA;
+    --color-9: #6C757D;
+    --color-10: #0D6EFD;
+    --color-11: #1C8C4D;
+    --color-12: #D93654;
+    --color-13: #0FDBF2;
+    --color-14: #FFC107;
+    --color-15: #212529;
 }
 
 #title-sc{
     padding: 20px;
     border: 2px solid red;
+    text-align: center;
+    text-transform: capitalize;
 }
 
 body{
@@ -22,14 +36,34 @@ body{
 }
 
 .box-1{
-    background-color: var(--color-1);
-    color: var(--color-4);
+    background-color: var(--color-8);
+    color: var(--color-15);
     padding: 50px;
 }
 
 
 .box-2{
-    background-color: var(--color-2);
-    color: var(--color-4);
+    background-color: var(--color-9);
+    color: var(--color-15);
     padding: 50px;
+}
+
+
+.box-3{
+    background-color: var(--color-10);
+    color: var(--color-8);
+    padding: 30px;
+}
+
+
+.box-4{
+    background-color: var(--color-11);
+    color: var(--color-8);
+    padding: 30px;
+}
+
+.box-5{
+    background-color: var(--color-12);
+    color: var(--color-8);
+    padding: 30px;
 }
